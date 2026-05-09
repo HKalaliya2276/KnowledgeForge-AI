@@ -1,0 +1,6 @@
+Nmap is a network scanning tool used for reconnaissance.
+
+Common scan:
+nmap -sV 192.168.1.1
+
+SQL Injection occurs when user input is not sanitized properly.
