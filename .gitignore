@@ -10,3 +10,5 @@ data/registry/
 
 .DS_Store
 Thumbs.db
+data/raw/
+!data/raw/sample.txt
