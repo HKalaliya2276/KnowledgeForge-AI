@@ -11,7 +11,7 @@ class SmartChunker:
 
         splitter = SmartSplitter.get_splitter()
 
-        split_texts = splitter.split_text(document.content)
+        split_texts = splitter.split_text(document.text)
 
         chunks = []
 
